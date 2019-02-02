@@ -1,2 +1,2 @@
 # PropertyListing
-Identify good and bad item listings
+Identify good and bad Property listings
